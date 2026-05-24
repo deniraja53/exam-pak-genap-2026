@@ -23,7 +23,7 @@ A modern AI-powered web application built using React/Next.js with Google Gemini
 Clone this repository using Git:
 
 ```bash
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/deniraja53/exam-pak-genap-2026.git
 
 # Enter the project folder:
 cd REPOSITORY
