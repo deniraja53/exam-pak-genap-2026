@@ -1275,8 +1275,13 @@ export default function App() {
 
             {/* Emblem */}
             <div className="flex justify-center">
-              <div className="p-4 rounded-full bg-amber-500/10 border border-amber-500/20 text-amber-400">
-                <ExamIcons.Done size={36} className="animate-pulse" />
+              <div className="p-1 rounded-full bg-white/10 border border-white/20 inline-block animate-bounce">
+                <img 
+                  src="https://lh3.googleusercontent.com/d/1--F3GW0ESYSLaHEUvMoMFIQSOFLwAX52" 
+                  alt="Logo SDN Kejuron" 
+                  className="w-16 h-16 object-contain" 
+                  referrerPolicy="no-referrer"
+                />
               </div>
             </div>
 
