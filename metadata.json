@@ -1,0 +1,6 @@
+{
+  "name": "PAK Exam SDN Kejuron",
+  "description": "Aplikasi Ujian Pendidikan Agama Kristen SDN Kejuron Kota Madiun dengan sistem fullscreen secure exam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
