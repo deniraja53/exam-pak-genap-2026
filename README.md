@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://lh3.googleusercontent.com/d/1DgRxUJrsk5FP93Dw4KkloQP8nYAidLyB" />
+<img width="1200" height="475" alt="GHBanner" src="https://lh3.googleusercontent.com/d/1F_ofiHKoxqNzWuYgdrPPnWrs_e73_GPI" />
 </div>
 
 # AI Web Application
