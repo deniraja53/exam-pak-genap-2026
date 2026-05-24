@@ -2,19 +2,50 @@
 <img width="1200" height="475" alt="GHBanner" src="https://lh3.googleusercontent.com/d/1DgRxUJrsk5FP93Dw4KkloQP8nYAidLyB" />
 </div>
 
-# Run and deploy your AI Studio app
+# AI Web Application
 
-This contains everything you need to run your app locally.
+A modern AI-powered web application built using React/Next.js with Google Gemini API integration and Google Spreadsheet as database storage.
 
-View your app in AI Studio: https://ai.studio/apps/c1e4f0fd-9aa9-47d4-a1a9-360bb1d5a9bf
+---
 
-## Run Locally
+## Features
 
-**Prerequisites:**  Node.js
+-  Gemini AI Integration
+-  Spreadsheet Database System
+-  Responsive Modern UI
+-  Fast and Lightweight
+-  Easy Deployment with Vercel
 
+---
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+# Clone This Project
+
+Clone this repository using Git:
+
+```bash
+git clone https://github.com/USERNAME/REPOSITORY.git
+
+# Enter the project folder:
+cd REPOSITORY
+
+Run Locally
+Prerequisites
+
+Make sure you already installed:
+
+Node.js
+npm or yarn
+Git
+
+Download Node.js:
+https://nodejs.org/
+
+1. Install Dependencies
+npm install
+
+2. Setup Environment Variables
+Create a file named:
+.env.local
+
+3. Run Development Server
+npm run dev
